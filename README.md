@@ -1,6 +1,8 @@
 
 # 2048 TUI
 
+![alt text](image.png)
+
 Want a Brazilian portuguese readme?[click here!](README_pt.md)
 
 A terminal-based implementation of the popular 2048 game, written in Go. This version features a colorful interface and sound effects for an enhanced gaming experience.

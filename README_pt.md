@@ -1,6 +1,8 @@
 
 # 2048 TUI
 
+![alt text](image.png)
+
 Uma implementação baseada em terminal do popular jogo 2048, escrita em Go. Esta versão apresenta uma interface colorida e efeitos sonoros para uma experiência de jogo aprimorada.
 
 ## Funcionalidades
