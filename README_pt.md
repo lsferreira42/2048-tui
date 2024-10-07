@@ -21,6 +21,10 @@ Para compilar e executar este jogo, você precisa ter o Go instalado em seu sist
 
 ## Instalação
 
+Baixe o ultimo release na [pagina de releases](https://github.com/lsferreira42/2048-tui/releases) e coloque no seu path!!
+
+## Instalação - Desenvolvimento
+
 Para começar com o `2048-tui`, clone o repositório e instale as dependências necessárias:
 
 ```bash

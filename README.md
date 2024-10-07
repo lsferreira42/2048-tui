@@ -3,7 +3,7 @@
 
 ![alt text](image.png)
 
-Want a Brazilian portuguese readme?[click here!](README_pt.md)
+Want a Brazilian portuguese readme? [click here!](README_pt.md)
 
 A terminal-based implementation of the popular 2048 game, written in Go. This version features a colorful interface and sound effects for an enhanced gaming experience.
 
@@ -21,7 +21,11 @@ A terminal-based implementation of the popular 2048 game, written in Go. This ve
 
 To build and run this game, you need to have Go installed on your system. The project uses Go modules for dependency management.
 
-## Installation
+## Instalation
+
+Download the latest release for your OS in the [releases page](https://github.com/lsferreira42/2048-tui/releases) and put it in your path!
+
+## Installation - Development
 
 To get started with `2048-tui`, clone the repository and install the necessary dependencies:
 
